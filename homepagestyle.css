@@ -1,0 +1,19 @@
+h1 {
+  font-family: courier;
+  text-align: center;
+}
+h2{
+  font-family: courier;
+  text-align: center;
+}
+table, td, th {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+body {
+  background-image: url("https://www.naturalfoodseries.com/wp-content/uploads/2018/02/Cheese-800x416.jpg");
+  font-family: courier;
+}
+#sub {
+  text-align: center;
+}
