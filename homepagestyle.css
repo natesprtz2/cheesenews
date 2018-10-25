@@ -11,7 +11,7 @@ table, td, th {
   border-collapse: collapse;
 }
 body {
-  background-image: url("cheesenews/assets/cheesebg.png");
+  background-image: url("/assets/cheesebg.png");
   font-family: courier;
 }
 #sub {
